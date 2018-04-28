@@ -1,11 +1,6 @@
 This is the first text file that is added 
 in the project.
-<<<<<<< HEAD
 A new line added. 6th change.
 3rd change.
 4th change
 5th change
-=======
-A new line added.
-3rd change.
->>>>>>> parent of c469f7a... added 4th line
