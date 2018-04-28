@@ -1,4 +1,0 @@
-This is the first text file that is added 
-in the project.
-A new line added.
- 
